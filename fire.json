@@ -1,0 +1,8 @@
+
+{
+    "detection_threshold": 0.5,
+    "max_boxes":200,
+    "labels": [
+      "0","1","2","3","4","Liquid","Metal","Solid","fire","object","smoke"
+    ]
+}

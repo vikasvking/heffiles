@@ -1,0 +1,9 @@
+
+{
+    "detection_threshold": 0.5,
+    "max_boxes":200,
+    "labels": [
+      "0","bull_dozer/loader/grader", "dump_truck", "dump_truck", "dump_truck", "excavator", "excavator", "bull_dozer/loader/grader", "hip_of_soil", "light_vehicle", "person", "road_sign", "dump_truck", "safety_helmet", "safety_jacket"
+
+    ]
+}
